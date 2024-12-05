@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rice/static/css/main.a4794014.css",
+    "main.js": "/rice/static/js/main.1ce232a3.js",
+    "static/js/453.ad6eb26e.chunk.js": "/rice/static/js/453.ad6eb26e.chunk.js",
+    "static/media/arcade.jpg": "/rice/static/media/arcade.5f30d7993c2f7cfcc037.jpg",
+    "index.html": "/rice/index.html",
+    "main.a4794014.css.map": "/rice/static/css/main.a4794014.css.map",
+    "main.1ce232a3.js.map": "/rice/static/js/main.1ce232a3.js.map",
+    "453.ad6eb26e.chunk.js.map": "/rice/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4794014.css",
+    "static/js/main.1ce232a3.js"
+  ]
+}
