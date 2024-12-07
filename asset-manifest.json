@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/rice/static/css/main.a4794014.css",
-    "main.js": "/rice/static/js/main.1ce232a3.js",
+    "main.css": "/rice/static/css/main.5d222c44.css",
+    "main.js": "/rice/static/js/main.a69d51f9.js",
     "static/js/453.ad6eb26e.chunk.js": "/rice/static/js/453.ad6eb26e.chunk.js",
-    "static/media/arcade.jpg": "/rice/static/media/arcade.5f30d7993c2f7cfcc037.jpg",
+    "static/media/arcade.jpg": "/rice/static/media/arcade.9c4a21ca749a24590187.jpg",
+    "static/media/header.png": "/rice/static/media/header.833e681dc622080a4529.png",
     "index.html": "/rice/index.html",
-    "main.a4794014.css.map": "/rice/static/css/main.a4794014.css.map",
-    "main.1ce232a3.js.map": "/rice/static/js/main.1ce232a3.js.map",
+    "main.5d222c44.css.map": "/rice/static/css/main.5d222c44.css.map",
+    "main.a69d51f9.js.map": "/rice/static/js/main.a69d51f9.js.map",
     "453.ad6eb26e.chunk.js.map": "/rice/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4794014.css",
-    "static/js/main.1ce232a3.js"
+    "static/css/main.5d222c44.css",
+    "static/js/main.a69d51f9.js"
   ]
 }
